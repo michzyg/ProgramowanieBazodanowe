@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ZygarM\\ProgramowanieBazodanowe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9639E427-A8DA-45D9-82B0-5525B12E1016}|DAL\\DAL.csproj|d:\\zygarm\\programowaniebazodanowe\\dal\\migrations\\20250304171943_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9639E427-A8DA-45D9-82B0-5525B12E1016}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250304171943_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9639E427-A8DA-45D9-82B0-5525B12E1016}|DAL\\DAL.csproj|d:\\zygarm\\programowaniebazodanowe\\dal\\webstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9639E427-A8DA-45D9-82B0-5525B12E1016}|DAL\\DAL.csproj|solutionrelative:dal\\webstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|d:\\zygarm\\programowaniebazodanowe\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\basketposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\basketposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250304171943_INIT.cs",
+              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\DAL\\Migrations\\20250304171943_INIT.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250304171943_INIT.cs",
+              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\DAL\\Migrations\\20250304171943_INIT.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250304171943_INIT.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:19:44.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:52:07.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebstoreContext.cs",
+              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\DAL\\WebstoreContext.cs",
+              "RelativeDocumentMoniker": "DAL\\WebstoreContext.cs",
+              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\DAL\\WebstoreContext.cs",
+              "RelativeToolTip": "DAL\\WebstoreContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:31:59.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductGroup.cs",
+              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\ProductGroup.cs",
+              "RelativeDocumentMoniker": "Model\\ProductGroup.cs",
+              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\ProductGroup.cs",
+              "RelativeToolTip": "Model\\ProductGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:26:29.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:16:44.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderPosition.cs",
+              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\OrderPosition.cs",
+              "RelativeDocumentMoniker": "Model\\OrderPosition.cs",
+              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\OrderPosition.cs",
+              "RelativeToolTip": "Model\\OrderPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:55:09.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:54:49.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasketPosition.cs",
+              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\BasketPosition.cs",
+              "RelativeDocumentMoniker": "Model\\BasketPosition.cs",
+              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\BasketPosition.cs",
+              "RelativeToolTip": "Model\\BasketPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:54:15.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserGroup.cs",
+              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\UserGroup.cs",
+              "RelativeDocumentMoniker": "Model\\UserGroup.cs",
+              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\UserGroup.cs",
+              "RelativeToolTip": "Model\\UserGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:54:03.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:53:26.916Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
