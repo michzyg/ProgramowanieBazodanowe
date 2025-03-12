@@ -1,45 +1,121 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ZygarM\\ProgramowanieBazodanowe\\",
+  "WorkspaceRootPath": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9639E427-A8DA-45D9-82B0-5525B12E1016}|DAL\\DAL.csproj|d:\\zygarm\\programowaniebazodanowe\\dal\\migrations\\20250304171943_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\serviceinterfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\serviceinterfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\usergroupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\usergroupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\productgroupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\productgroupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\orderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\orderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\orderpositionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\orderpositionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\orderpositionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\orderpositionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\basketpositionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\basketpositionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\basketpositionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\basketpositionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\serviceinterfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\serviceinterfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\serviceinterfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\serviceinterfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\serviceinterfaces\\iusergroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\serviceinterfaces\\iusergroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\serviceinterfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\serviceinterfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\serviceinterfaces\\iproductgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\serviceinterfaces\\iproductgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\productgrouprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\productgrouprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9639E427-A8DA-45D9-82B0-5525B12E1016}|DAL\\DAL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\dal\\migrations\\20250304171943_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9639E427-A8DA-45D9-82B0-5525B12E1016}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250304171943_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\model\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9639E427-A8DA-45D9-82B0-5525B12E1016}|DAL\\DAL.csproj|d:\\zygarm\\programowaniebazodanowe\\dal\\webstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9639E427-A8DA-45D9-82B0-5525B12E1016}|DAL\\DAL.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\dal\\webstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9639E427-A8DA-45D9-82B0-5525B12E1016}|DAL\\DAL.csproj|solutionrelative:dal\\webstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|d:\\zygarm\\programowaniebazodanowe\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\model\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\model\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|d:\\zygarm\\programowaniebazodanowe\\model\\basketposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|c:\\users\\student rm4-3073 03.it\\documents\\github\\programowaniebazodanowe\\model\\basketposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7919EC-9B18-4B2B-8DFA-F3A2026807F7}|Model\\Model.csproj|solutionrelative:model\\basketposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,92 +126,323 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\OrderResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\OrderResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\OrderResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\OrderResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:25:57.041Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductGroupResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\ProductGroupResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\ProductGroupResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\ProductGroupResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\ProductGroupResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:24:29.542Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\ProductRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\ProductRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\ProductRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\ProductRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:24:18.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\ProductResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\ProductResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\ProductResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\ProductResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:24:06.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserGroupResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\UserGroupResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\UserGroupResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\UserGroupResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\UserGroupResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:25:21.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\UserRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\UserRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\UserRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\UserRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:25:10.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\UserResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\UserResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\UserResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\UserResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:25:00.789Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\ServiceInterfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IProductService.cs",
+              "RelativeToolTip": "BLL\\ServiceInterfaces\\IProductService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:35:58.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\OrderRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\OrderRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\OrderRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\OrderRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:26:07.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderPositionResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\OrderPositionResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\OrderPositionResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\OrderPositionResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\OrderPositionResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:26:17.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderPositionRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\OrderPositionRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\OrderPositionRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\OrderPositionRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\OrderPositionRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:26:28.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BasketPositionResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\BasketPositionResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\BasketPositionResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\BasketPositionResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\BasketPositionResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:25:31.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BasketPositionRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\BasketPositionRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\BasketPositionRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\BasketPositionRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\BasketPositionRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:25:44.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "BLL\\ServiceInterfaces\\ICartService.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\ICartService.cs",
+              "RelativeToolTip": "BLL\\ServiceInterfaces\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:36:35.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "BLL\\ServiceInterfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IOrderService.cs",
+              "RelativeToolTip": "BLL\\ServiceInterfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:37:01.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IUserGroupService.cs",
+              "RelativeDocumentMoniker": "BLL\\ServiceInterfaces\\IUserGroupService.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IUserGroupService.cs",
+              "RelativeToolTip": "BLL\\ServiceInterfaces\\IUserGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:36:25.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BLL\\ServiceInterfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IUserService.cs",
+              "RelativeToolTip": "BLL\\ServiceInterfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:36:16.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IProductGroupService.cs",
+              "RelativeDocumentMoniker": "BLL\\ServiceInterfaces\\IProductGroupService.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IProductGroupService.cs",
+              "RelativeToolTip": "BLL\\ServiceInterfaces\\IProductGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:36:07.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductGroupRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\ProductGroupRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\ProductGroupRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\ProductGroupRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\ProductGroupRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:24:40.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "20250304171943_INIT.cs",
-              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\DAL\\Migrations\\20250304171943_INIT.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\Migrations\\20250304171943_INIT.cs",
               "RelativeDocumentMoniker": "DAL\\Migrations\\20250304171943_INIT.cs",
-              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\DAL\\Migrations\\20250304171943_INIT.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\Migrations\\20250304171943_INIT.cs",
               "RelativeToolTip": "DAL\\Migrations\\20250304171943_INIT.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAApAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T17:19:44.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\WebAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T16:52:07.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T16:52:07.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 22,
               "Title": "WebstoreContext.cs",
-              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\DAL\\WebstoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\WebstoreContext.cs",
               "RelativeDocumentMoniker": "DAL\\WebstoreContext.cs",
-              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\DAL\\WebstoreContext.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\WebstoreContext.cs",
               "RelativeToolTip": "DAL\\WebstoreContext.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAwCEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T16:31:59.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T16:31:59.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "ProductGroup.cs",
-              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\ProductGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\ProductGroup.cs",
               "RelativeDocumentMoniker": "Model\\ProductGroup.cs",
-              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\ProductGroup.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\ProductGroup.cs",
               "RelativeToolTip": "Model\\ProductGroup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T16:26:29.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T16:26:29.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 20,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Product.cs",
               "RelativeDocumentMoniker": "Model\\Product.cs",
-              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Product.cs",
               "RelativeToolTip": "Model\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T16:16:44.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T16:16:44.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 26,
               "Title": "OrderPosition.cs",
-              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\OrderPosition.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\OrderPosition.cs",
               "RelativeDocumentMoniker": "Model\\OrderPosition.cs",
-              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\OrderPosition.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\OrderPosition.cs",
               "RelativeToolTip": "Model\\OrderPosition.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,11 +450,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 27,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Order.cs",
               "RelativeDocumentMoniker": "Model\\Order.cs",
-              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Order.cs",
               "RelativeToolTip": "Model\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,11 +462,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "BasketPosition.cs",
-              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\BasketPosition.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\BasketPosition.cs",
               "RelativeDocumentMoniker": "Model\\BasketPosition.cs",
-              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\BasketPosition.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\BasketPosition.cs",
               "RelativeToolTip": "Model\\BasketPosition.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,11 +474,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 25,
               "Title": "UserGroup.cs",
-              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\UserGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\UserGroup.cs",
               "RelativeDocumentMoniker": "Model\\UserGroup.cs",
-              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\UserGroup.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\UserGroup.cs",
               "RelativeToolTip": "Model\\UserGroup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,39 +486,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 24,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
-              "ToolTip": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\User.cs",
               "RelativeToolTip": "Model\\User.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAA1wBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T15:53:26.916Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 286,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 286,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

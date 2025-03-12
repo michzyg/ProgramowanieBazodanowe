@@ -4748,26 +4748,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Student\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Student RM4-3073 03.IT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ZygarM\\ProgramowanieBazodanowe\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "D:\\ZygarM\\ProgramowanieBazodanowe\\DAL\\DAL.csproj",
-      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "D:\\ZygarM\\ProgramowanieBazodanowe\\DAL\\obj\\",
+      "projectPath": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\Student RM4-3073 03.IT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Student RM4-3073 03.IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4775,15 +4768,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\Model.csproj": {
-              "projectPath": "D:\\ZygarM\\ProgramowanieBazodanowe\\Model\\Model.csproj"
+            "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Model.csproj"
             }
           }
         }
@@ -4840,7 +4832,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

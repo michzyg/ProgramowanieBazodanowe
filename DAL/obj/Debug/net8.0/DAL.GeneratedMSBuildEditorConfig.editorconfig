@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DAL
-build_property.ProjectDir = D:\ZygarM\ProgramowanieBazodanowe\DAL\
+build_property.ProjectDir = C:\Users\Student RM4-3073 03.IT\Documents\GitHub\ProgramowanieBazodanowe\DAL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
