@@ -9,6 +9,6 @@ namespace BLL.ServiceInterfaces
 {
     public interface IUserGroupService
     {
-        IEnumerable<UserGroupResponseDTO> GetUserGroups();
+        Task<IEnumerable<UserGroupResponseDTO>> GetUserGroups();
     }
 }

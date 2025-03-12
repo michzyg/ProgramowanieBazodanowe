@@ -8,6 +8,8 @@ namespace Model
 {
     public class Order
     {
+        public bool IsPaid;
+
         public int ID { get; set; }
         public int UserID { get; set; }
         public DateTime Date { get; set; }

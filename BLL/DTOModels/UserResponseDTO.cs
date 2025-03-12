@@ -13,5 +13,6 @@ namespace BLL.DTOModels
         public string Type { get; init; }
         public bool IsActive { get; init; }
         public int GroupId { get; init; }
+
     }
 }

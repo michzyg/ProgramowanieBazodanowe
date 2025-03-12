@@ -15,5 +15,6 @@ namespace Model
         public ProductGroup? Parent { get; set; }
         public ICollection<ProductGroup> SubGroups { get; set; } 
         public ICollection<Product> Products { get; set; }
+        public object ParentGroup { get; set; }
     }
 }

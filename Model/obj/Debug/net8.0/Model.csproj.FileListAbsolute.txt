@@ -22,3 +22,15 @@ D:\ZygarM\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\Model.dll
 D:\ZygarM\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\refint\Model.dll
 D:\ZygarM\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\Model.pdb
 D:\ZygarM\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\ref\Model.dll
+C:\Users\Student RM4-3073 03.IT\Documents\GitHub\ProgramowanieBazodanowe\Model\bin\Debug\net8.0\Model.deps.json
+C:\Users\Student RM4-3073 03.IT\Documents\GitHub\ProgramowanieBazodanowe\Model\bin\Debug\net8.0\Model.dll
+C:\Users\Student RM4-3073 03.IT\Documents\GitHub\ProgramowanieBazodanowe\Model\bin\Debug\net8.0\Model.pdb
+C:\Users\Student RM4-3073 03.IT\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 03.IT\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 03.IT\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Users\Student RM4-3073 03.IT\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 03.IT\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\Model.sourcelink.json
+C:\Users\Student RM4-3073 03.IT\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\Model.dll
+C:\Users\Student RM4-3073 03.IT\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Users\Student RM4-3073 03.IT\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\Model.pdb
+C:\Users\Student RM4-3073 03.IT\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\ref\Model.dll

@@ -9,7 +9,7 @@ namespace BLL.ServiceInterfaces
 {
     public interface IUserService
     {
-        UserResponseDTO Login(UserRequestDTO loginRequest);
-        bool Logout(int userId);
+        Task<UserResponseDTO> Login(UserRequestDTO loginRequest);
+        Task<bool> Logout();
     }
 }

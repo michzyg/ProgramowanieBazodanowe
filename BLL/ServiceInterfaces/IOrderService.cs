@@ -9,9 +9,9 @@ namespace BLL.ServiceInterfaces
 {
     public interface IOrderService
     {
-        IEnumerable<OrderResponseDTO> GetOrders(int? orderId, bool? isPaid, string sortBy, bool ascending);
-        OrderResponseDTO GetOrderDetails(int orderId);
-        OrderResponseDTO GenerateOrder(int userId);
-        bool PayOrder(int orderId, decimal amount);
+        Task<IEnumerable<OrderResponseDTO>> GetOrders(int? orderId, bool? isPaid, string sortBy, bool ascending);
+        Task<OrderResponseDTO> GetOrderDetails(int orderId);
+        Task<OrderResponseDTO> GenerateOrder(int userId);
+        Task<bool> PayOrder(int orderId, decimal amount);
     }
 }
