@@ -17,7 +17,7 @@ namespace DAL.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "9.0.2")
+                .HasAnnotation("ProductVersion", "9.0.3")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -50,6 +50,9 @@ namespace DAL.Migrations
 
                     b.Property<DateTime>("Date")
                         .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsPaid")
+                        .HasColumnType("bit");
 
                     b.Property<int>("UserID")
                         .HasColumnType("int");
@@ -94,7 +97,6 @@ namespace DAL.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Image")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("IsActive")
@@ -239,7 +241,7 @@ namespace DAL.Migrations
                     b.HasOne("Model.ProductGroup", "Group")
                         .WithMany("Products")
                         .HasForeignKey("GroupID")
-                        .OnDelete(DeleteBehavior.SetNull);
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.Navigation("Group");
                 });
@@ -249,7 +251,7 @@ namespace DAL.Migrations
                     b.HasOne("Model.ProductGroup", "Parent")
                         .WithMany("SubGroups")
                         .HasForeignKey("ParentID")
-                        .OnDelete(DeleteBehavior.SetNull);
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.Navigation("Parent");
                 });
@@ -259,7 +261,7 @@ namespace DAL.Migrations
                     b.HasOne("Model.UserGroup", "Group")
                         .WithMany("Users")
                         .HasForeignKey("GroupID")
-                        .OnDelete(DeleteBehavior.SetNull);
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.Navigation("Group");
                 });

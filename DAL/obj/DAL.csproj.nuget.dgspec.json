@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\DAL.csproj": {}
+    "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\DAL.csproj": {
+    "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Student RM4-3073 03.IT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Student RM4-3073 04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student RM4-3073 03.IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student RM4-3073 04\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Model.csproj"
+              "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Model.csproj"
               }
             }
           }
@@ -51,23 +51,23 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
@@ -90,17 +90,17 @@
         }
       }
     },
-    "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Model.csproj": {
+    "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\Student RM4-3073 03.IT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student RM4-3073 03.IT\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\obj\\",
+        "projectPath": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\Student RM4-3073 04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student RM4-3073 03.IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student RM4-3073 04\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
