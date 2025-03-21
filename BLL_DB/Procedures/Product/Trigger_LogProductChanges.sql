@@ -1,0 +1,26 @@
+﻿CREATE TABLE ProductChangesLog (
+    LogID INT IDENTITY(1,1) PRIMARY KEY,
+    ProductID INT,
+    ActionType NVARCHAR(50),
+    ChangedAt DATETIME DEFAULT GETDATE()
+);
+GO
+
+CREATE TRIGGER trg_LogProductChanges
+ON Products
+AFTER INSERT, UPDATE, DELETE
+AS
+BEGIN
+    IF EXISTS (SELECT * FROM INSERTED)
+    BEGIN
+        INSERT INTO ProductChangesLog (ProductID, ActionType)
+        SELECT ID, 'INSERT/UPDATE' FROM INSERTED;
+    END
+
+    IF EXISTS (SELECT * FROM DELETED)
+    BEGIN
+        INSERT INTO ProductChangesLog (ProductID, ActionType)
+        SELECT ID, 'DELETE' FROM DELETED;
+    END
+END
+GO

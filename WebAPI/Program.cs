@@ -1,5 +1,6 @@
 using BLL.ServiceInterfaces;
 using BLL_EF.Services;
+using BLL_DB.Services;
 using DAL;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -16,10 +17,19 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<WebstoreContext>();
 
-builder.Services.AddScoped<IProductService, ProductService>();
-builder.Services.AddScoped<IBasketService, BasketService>();
-builder.Services.AddScoped<IOrderService, OrderService>();
-builder.Services.AddScoped<IUserService, UserService>();
+//builder.Services.AddScoped<IProductService, ProductService>();
+//builder.Services.AddScoped<IBasketService, BasketService>();
+//builder.Services.AddScoped<IOrderService, OrderService>();
+//builder.Services.AddScoped<IUserService, UserService>();
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+builder.Services.AddScoped<IProductService>(provider => new ProductServiceDb(connectionString));
+builder.Services.AddScoped<IBasketService>(provider => new BasketServiceDb(connectionString));
+builder.Services.AddScoped<IOrderService>(provider => new OrderServiceDb(connectionString));
+builder.Services.AddScoped<IUserService>(provider => new UserServiceDb(connectionString));
+
+
 
 var app = builder.Build();
 

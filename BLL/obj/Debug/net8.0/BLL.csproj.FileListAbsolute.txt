@@ -10,3 +10,4 @@ C:\Users\Student RM4-3073 04\Documents\GitHub\ProgramowanieBazodanowe\BLL\obj\De
 C:\Users\Student RM4-3073 04\Documents\GitHub\ProgramowanieBazodanowe\BLL\obj\Debug\net8.0\refint\BLL.dll
 C:\Users\Student RM4-3073 04\Documents\GitHub\ProgramowanieBazodanowe\BLL\obj\Debug\net8.0\BLL.pdb
 C:\Users\Student RM4-3073 04\Documents\GitHub\ProgramowanieBazodanowe\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Student RM4-3073 04\Documents\GitHub\ProgramowanieBazodanowe\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache

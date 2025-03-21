@@ -46,3 +46,4 @@ C:\Users\Student RM4-3073 04\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\
 C:\Users\Student RM4-3073 04\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\refint\Model.dll
 C:\Users\Student RM4-3073 04\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\Model.pdb
 C:\Users\Student RM4-3073 04\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\ref\Model.dll
+C:\Users\Student RM4-3073 04\Documents\GitHub\ProgramowanieBazodanowe\Model\obj\Debug\net8.0\Model.csproj.AssemblyReference.cache
