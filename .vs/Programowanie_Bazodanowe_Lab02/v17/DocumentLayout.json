@@ -1,202 +1,129 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\",
+  "WorkspaceRootPath": "C:\\Projects\\ProgramowanieBazodanowe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\order\\changeproductstatus.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\changeproductstatus.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\order\\addproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\addproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\services\\orderservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\services\\orderservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\services\\basketservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\services\\basketservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\services\\productservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\services\\productservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\services\\userservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\services\\userservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|c:\\projects\\programowaniebazodanowe\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E837F8F9-B28E-4EA1-AECA-BE2BC1947B1A}|BLL_EF\\BLL_EF.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_ef\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|c:\\projects\\programowaniebazodanowe\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\order\\changeproductstatus.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\changeproductstatus.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\order\\addproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\addproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\services\\orderservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\services\\orderservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\services\\basketservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\services\\basketservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\services\\productservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\services\\productservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\services\\userservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\services\\userservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E837F8F9-B28E-4EA1-AECA-BE2BC1947B1A}|BLL_EF\\BLL_EF.csproj|c:\\projects\\programowaniebazodanowe\\bll_ef\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E837F8F9-B28E-4EA1-AECA-BE2BC1947B1A}|BLL_EF\\BLL_EF.csproj|solutionrelative:bll_ef\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E837F8F9-B28E-4EA1-AECA-BE2BC1947B1A}|BLL_EF\\BLL_EF.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_ef\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E837F8F9-B28E-4EA1-AECA-BE2BC1947B1A}|BLL_EF\\BLL_EF.csproj|c:\\projects\\programowaniebazodanowe\\bll_ef\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E837F8F9-B28E-4EA1-AECA-BE2BC1947B1A}|BLL_EF\\BLL_EF.csproj|solutionrelative:bll_ef\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll\\serviceinterfaces\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\projects\\programowaniebazodanowe\\bll\\serviceinterfaces\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\serviceinterfaces\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\groupdtos\\groupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\projects\\programowaniebazodanowe\\bll\\dtomodels\\groupdtos\\groupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\groupdtos\\groupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\groupdtos\\grouprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\projects\\programowaniebazodanowe\\bll\\dtomodels\\groupdtos\\grouprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\groupdtos\\grouprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll\\dtomodels\\basketdtos\\basketrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|c:\\projects\\programowaniebazodanowe\\bll\\dtomodels\\basketdtos\\basketrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A76B8B68-AD79-4D69-8566-9E7E7445E890}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\basketdtos\\basketrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\webapi\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|c:\\projects\\programowaniebazodanowe\\webapi\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{664A2AF3-0BA9-418D-ACAD-073260DE664E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\user\\userlogin.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\user\\userlogin.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\user\\userlogin.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\product\\trigger_logproductchanges.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\product\\trigger_logproductchanges.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\product\\trigger_logproductchanges.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\product\\getgroups.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\product\\getgroups.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\product\\getgroups.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\product\\deleteproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\product\\deleteproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\product\\deleteproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\product\\changeproductstatus.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\product\\changeproductstatus.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\product\\changeproductstatus.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\product\\addproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\product\\addproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\product\\addgroup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\product\\addgroup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\product\\addgroup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\order\\view_ordersummary.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\order\\view_ordersummary.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\view_ordersummary.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\order\\view_orderdetails.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\order\\view_orderdetails.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\view_orderdetails.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\order\\trigger_logpayment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\order\\trigger_logpayment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\trigger_logpayment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\order\\payorder.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\order\\payorder.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\payorder.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\basket\\updatebasketitem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\basket\\updatebasketitem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\basket\\updatebasketitem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\basket\\trigger_logordercreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\basket\\trigger_logordercreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\basket\\trigger_logordercreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\basket\\removeproductfrombasket.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\basket\\removeproductfrombasket.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\basket\\removeproductfrombasket.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\basket\\createorder.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\basket\\createorder.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\basket\\createorder.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\basket\\addproducttobasket.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\projects\\programowaniebazodanowe\\bll_db\\procedures\\basket\\addproducttobasket.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\basket\\addproducttobasket.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\basket\\addproducttobasket.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\basket\\addproducttobasket.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\basket\\createorder.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\basket\\createorder.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\basket\\removeproductfrombasket.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\basket\\removeproductfrombasket.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\basket\\trigger_logordercreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\basket\\trigger_logordercreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\basket\\updatebasketitem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\basket\\updatebasketitem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\order\\addproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\addproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\order\\changeproductstatus.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\changeproductstatus.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\order\\payorder.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\payorder.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\order\\trigger_logpayment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\trigger_logpayment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\order\\view_orderdetails.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\view_orderdetails.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\order\\view_ordersummary.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\order\\view_ordersummary.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\product\\addgroup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\product\\addgroup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\product\\addproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\product\\addproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\product\\changeproductstatus.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\product\\changeproductstatus.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\product\\deleteproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\product\\deleteproduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\product\\getgroups.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\product\\getgroups.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\product\\trigger_logproductchanges.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\product\\trigger_logproductchanges.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|c:\\users\\student rm4-3073 04\\documents\\github\\programowaniebazodanowe\\bll_db\\procedures\\user\\userlogin.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}|BLL_DB\\BLL_DB.csproj|solutionrelative:bll_db\\procedures\\user\\userlogin.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\AddProduct.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -206,392 +133,362 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "UserServiceDb.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Services\\UserServiceDb.cs",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Services\\UserServiceDb.cs",
               "RelativeDocumentMoniker": "BLL_DB\\Services\\UserServiceDb.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Services\\UserServiceDb.cs",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Services\\UserServiceDb.cs",
               "RelativeToolTip": "BLL_DB\\Services\\UserServiceDb.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAA9wBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:42:26.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:42:26.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductServiceDb.cs",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Services\\ProductServiceDb.cs",
+              "RelativeDocumentMoniker": "BLL_DB\\Services\\ProductServiceDb.cs",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Services\\ProductServiceDb.cs",
+              "RelativeToolTip": "BLL_DB\\Services\\ProductServiceDb.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:42:21.338Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductServiceDb.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Services\\ProductServiceDb.cs",
-              "RelativeDocumentMoniker": "BLL_DB\\Services\\ProductServiceDb.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Services\\ProductServiceDb.cs",
-              "RelativeToolTip": "BLL_DB\\Services\\ProductServiceDb.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAQwCkAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:42:21.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "OrderServiceDb.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Services\\OrderServiceDb.cs",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Services\\OrderServiceDb.cs",
               "RelativeDocumentMoniker": "BLL_DB\\Services\\OrderServiceDb.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Services\\OrderServiceDb.cs",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Services\\OrderServiceDb.cs",
               "RelativeToolTip": "BLL_DB\\Services\\OrderServiceDb.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:42:16.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:42:16.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasketServiceDb.cs",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Services\\BasketServiceDb.cs",
+              "RelativeDocumentMoniker": "BLL_DB\\Services\\BasketServiceDb.cs",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Services\\BasketServiceDb.cs",
+              "RelativeToolTip": "BLL_DB\\Services\\BasketServiceDb.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:25:17.078Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BasketServiceDb.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Services\\BasketServiceDb.cs",
-              "RelativeDocumentMoniker": "BLL_DB\\Services\\BasketServiceDb.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Services\\BasketServiceDb.cs",
-              "RelativeToolTip": "BLL_DB\\Services\\BasketServiceDb.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAACoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:25:17.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddProduct.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\AddProduct.sql",
+              "Title": "AddProduct.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\AddProduct.sql",
               "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Order\\AddProduct.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\AddProduct.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\AddProduct.sql",
               "RelativeToolTip": "BLL_DB\\Procedures\\Order\\AddProduct.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:38.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:19:38.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChangeProductStatus.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\ChangeProductStatus.sql",
+              "DocumentIndex": 2,
+              "Title": "ChangeProductStatus.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\ChangeProductStatus.sql",
               "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Order\\ChangeProductStatus.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\ChangeProductStatus.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\ChangeProductStatus.sql",
               "RelativeToolTip": "BLL_DB\\Procedures\\Order\\ChangeProductStatus.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:39.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:19:39.861Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "GroupRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\GroupDTOs\\GroupRequestDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL\\DTOModels\\GroupDTOs\\GroupRequestDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOModels\\GroupDTOs\\GroupRequestDTO.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\GroupDTOs\\GroupRequestDTO.cs",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL\\DTOModels\\GroupDTOs\\GroupRequestDTO.cs",
               "RelativeToolTip": "BLL\\DTOModels\\GroupDTOs\\GroupRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:24:52.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:24:52.572Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "GroupResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\GroupDTOs\\GroupResponseDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL\\DTOModels\\GroupDTOs\\GroupResponseDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOModels\\GroupDTOs\\GroupResponseDTO.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\GroupDTOs\\GroupResponseDTO.cs",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL\\DTOModels\\GroupDTOs\\GroupResponseDTO.cs",
               "RelativeToolTip": "BLL\\DTOModels\\GroupDTOs\\GroupResponseDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:24:54.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:24:54.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\WebAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\WebAPI\\appsettings.json",
               "RelativeToolTip": "WebAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAADrAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-21T16:27:19.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:27:19.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BasketRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\BasketDTOs\\BasketRequestDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOModels\\BasketDTOs\\BasketRequestDTO.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\DTOModels\\BasketDTOs\\BasketRequestDTO.cs",
-              "RelativeToolTip": "BLL\\DTOModels\\BasketDTOs\\BasketRequestDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:24:44.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\WebAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\WebAPI\\Program.cs",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T16:21:00.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BasketRequestDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL\\DTOModels\\BasketDTOs\\BasketRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\BasketDTOs\\BasketRequestDTO.cs",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL\\DTOModels\\BasketDTOs\\BasketRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\BasketDTOs\\BasketRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:24:44.076Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_EF\\Services\\OrderService.cs",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_EF\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "BLL_EF\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_EF\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_EF\\Services\\OrderService.cs",
               "RelativeToolTip": "BLL_EF\\Services\\OrderService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:28:58.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:28:58.172Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "IBasketService.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IBasketService.cs",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IBasketService.cs",
               "RelativeDocumentMoniker": "BLL\\ServiceInterfaces\\IBasketService.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IBasketService.cs",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL\\ServiceInterfaces\\IBasketService.cs",
               "RelativeToolTip": "BLL\\ServiceInterfaces\\IBasketService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:24:58.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:24:58.952Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "BasketService.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_EF\\Services\\BasketService.cs",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_EF\\Services\\BasketService.cs",
               "RelativeDocumentMoniker": "BLL_EF\\Services\\BasketService.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_EF\\Services\\BasketService.cs",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_EF\\Services\\BasketService.cs",
               "RelativeToolTip": "BLL_EF\\Services\\BasketService.cs",
               "ViewState": "AQIAAFAAAAAAAAAAAAAwwAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:25:10.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:25:10.136Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "BasketController.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\WebAPI\\Controllers\\BasketController.cs",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\WebAPI\\Controllers\\BasketController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\BasketController.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\WebAPI\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\WebAPI\\Controllers\\BasketController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\BasketController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:20:51.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:20:51.799Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "UserLogin.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\User\\UserLogin.sql",
+              "Title": "UserLogin.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\User\\UserLogin.sql",
               "RelativeDocumentMoniker": "BLL_DB\\Procedures\\User\\UserLogin.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\User\\UserLogin.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\User\\UserLogin.sql",
               "RelativeToolTip": "BLL_DB\\Procedures\\User\\UserLogin.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:20:00.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:20:00.853Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Trigger_LogProductChanges.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\Trigger_LogProductChanges.sql",
+              "Title": "Trigger_LogProductChanges.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\Trigger_LogProductChanges.sql",
               "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Product\\Trigger_LogProductChanges.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\Trigger_LogProductChanges.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\Trigger_LogProductChanges.sql",
               "RelativeToolTip": "BLL_DB\\Procedures\\Product\\Trigger_LogProductChanges.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:56.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:19:56.08Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "GetGroups.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\GetGroups.sql",
+              "Title": "GetGroups.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\GetGroups.sql",
               "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Product\\GetGroups.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\GetGroups.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\GetGroups.sql",
               "RelativeToolTip": "BLL_DB\\Procedures\\Product\\GetGroups.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:54.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:19:54.922Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "DeleteProduct.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\DeleteProduct.sql",
+              "Title": "DeleteProduct.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\DeleteProduct.sql",
               "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Product\\DeleteProduct.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\DeleteProduct.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\DeleteProduct.sql",
               "RelativeToolTip": "BLL_DB\\Procedures\\Product\\DeleteProduct.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:53.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:19:53.799Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "ChangeProductStatus.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\ChangeProductStatus.sql",
+              "Title": "ChangeProductStatus.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\ChangeProductStatus.sql",
               "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Product\\ChangeProductStatus.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\ChangeProductStatus.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\ChangeProductStatus.sql",
               "RelativeToolTip": "BLL_DB\\Procedures\\Product\\ChangeProductStatus.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:52.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AddProduct.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\AddProduct.sql",
-              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Product\\AddProduct.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\AddProduct.sql",
-              "RelativeToolTip": "BLL_DB\\Procedures\\Product\\AddProduct.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:51.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AddGroup.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\AddGroup.sql",
-              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Product\\AddGroup.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\AddGroup.sql",
-              "RelativeToolTip": "BLL_DB\\Procedures\\Product\\AddGroup.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:50.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "View_OrderSummary.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\View_OrderSummary.sql",
-              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Order\\View_OrderSummary.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\View_OrderSummary.sql",
-              "RelativeToolTip": "BLL_DB\\Procedures\\Order\\View_OrderSummary.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:48.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "View_OrderDetails.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\View_OrderDetails.sql",
-              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Order\\View_OrderDetails.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\View_OrderDetails.sql",
-              "RelativeToolTip": "BLL_DB\\Procedures\\Order\\View_OrderDetails.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:47.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Trigger_LogPayment.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\Trigger_LogPayment.sql",
-              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Order\\Trigger_LogPayment.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\Trigger_LogPayment.sql",
-              "RelativeToolTip": "BLL_DB\\Procedures\\Order\\Trigger_LogPayment.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:42.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "PayOrder.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\PayOrder.sql",
-              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Order\\PayOrder.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\PayOrder.sql",
-              "RelativeToolTip": "BLL_DB\\Procedures\\Order\\PayOrder.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:41.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UpdateBasketItem.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\UpdateBasketItem.sql",
-              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Basket\\UpdateBasketItem.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\UpdateBasketItem.sql",
-              "RelativeToolTip": "BLL_DB\\Procedures\\Basket\\UpdateBasketItem.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:36.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Trigger_LogOrderCreate.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\Trigger_LogOrderCreate.sql",
-              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Basket\\Trigger_LogOrderCreate.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\Trigger_LogOrderCreate.sql",
-              "RelativeToolTip": "BLL_DB\\Procedures\\Basket\\Trigger_LogOrderCreate.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:34.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "RemoveProductFromBasket.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\RemoveProductFromBasket.sql",
-              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Basket\\RemoveProductFromBasket.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\RemoveProductFromBasket.sql",
-              "RelativeToolTip": "BLL_DB\\Procedures\\Basket\\RemoveProductFromBasket.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:32.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CreateOrder.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\CreateOrder.sql",
-              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Basket\\CreateOrder.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\CreateOrder.sql",
-              "RelativeToolTip": "BLL_DB\\Procedures\\Basket\\CreateOrder.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:29.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:19:52.745Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "AddProductToBasket.sql ",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\AddProductToBasket.sql",
+              "Title": "AddProduct.sql",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\AddProduct.sql",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\AddProduct.sql",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\AddProduct.sql",
+              "RelativeToolTip": "..\\..\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\AddProduct.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-21T16:19:51.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddGroup.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\AddGroup.sql",
+              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Product\\AddGroup.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Product\\AddGroup.sql",
+              "RelativeToolTip": "BLL_DB\\Procedures\\Product\\AddGroup.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-21T16:19:50.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "View_OrderSummary.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\View_OrderSummary.sql",
+              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Order\\View_OrderSummary.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\View_OrderSummary.sql",
+              "RelativeToolTip": "BLL_DB\\Procedures\\Order\\View_OrderSummary.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-21T16:19:48.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "View_OrderDetails.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\View_OrderDetails.sql",
+              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Order\\View_OrderDetails.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\View_OrderDetails.sql",
+              "RelativeToolTip": "BLL_DB\\Procedures\\Order\\View_OrderDetails.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-21T16:19:47.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Trigger_LogPayment.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\Trigger_LogPayment.sql",
+              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Order\\Trigger_LogPayment.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\Trigger_LogPayment.sql",
+              "RelativeToolTip": "BLL_DB\\Procedures\\Order\\Trigger_LogPayment.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-21T16:19:42.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PayOrder.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\PayOrder.sql",
+              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Order\\PayOrder.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Order\\PayOrder.sql",
+              "RelativeToolTip": "BLL_DB\\Procedures\\Order\\PayOrder.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-21T16:19:41.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateBasketItem.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\UpdateBasketItem.sql",
+              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Basket\\UpdateBasketItem.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\UpdateBasketItem.sql",
+              "RelativeToolTip": "BLL_DB\\Procedures\\Basket\\UpdateBasketItem.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-21T16:19:36.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Trigger_LogOrderCreate.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\Trigger_LogOrderCreate.sql",
+              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Basket\\Trigger_LogOrderCreate.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\Trigger_LogOrderCreate.sql",
+              "RelativeToolTip": "BLL_DB\\Procedures\\Basket\\Trigger_LogOrderCreate.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-21T16:19:34.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RemoveProductFromBasket.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\RemoveProductFromBasket.sql",
+              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Basket\\RemoveProductFromBasket.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\RemoveProductFromBasket.sql",
+              "RelativeToolTip": "BLL_DB\\Procedures\\Basket\\RemoveProductFromBasket.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-21T16:19:32.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateOrder.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\CreateOrder.sql",
+              "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Basket\\CreateOrder.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\CreateOrder.sql",
+              "RelativeToolTip": "BLL_DB\\Procedures\\Basket\\CreateOrder.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-21T16:19:29.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddProductToBasket.sql",
+              "DocumentMoniker": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\AddProductToBasket.sql",
               "RelativeDocumentMoniker": "BLL_DB\\Procedures\\Basket\\AddProductToBasket.sql",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\AddProductToBasket.sql",
+              "ToolTip": "C:\\Projects\\ProgramowanieBazodanowe\\BLL_DB\\Procedures\\Basket\\AddProductToBasket.sql",
               "RelativeToolTip": "BLL_DB\\Procedures\\Basket\\AddProductToBasket.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-21T16:19:28.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:19:28.216Z"
             }
           ]
         }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DataGenerator
-build_property.ProjectDir = C:\Users\Student RM4-3073 04\Documents\GitHub\ProgramowanieBazodanowe\DataGenerator\
+build_property.ProjectDir = C:\Projects\ProgramowanieBazodanowe\DataGenerator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

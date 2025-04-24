@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataGenerator", "DataGenera
 		{9639E427-A8DA-45D9-82B0-5525B12E1016} = {9639E427-A8DA-45D9-82B0-5525B12E1016}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL_DB", "BLL_DB\BLL_DB.csproj", "{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL_DB", "BLL_DB\BLL_DB.csproj", "{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL_MongoDb", "BLL_MongoDb\BLL_MongoDb.csproj", "{093DD412-2CCF-4E0A-B64A-E1E6D7B926F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataGenerator.Mongo", "DataGenerator.Mongo\DataGenerator.Mongo.csproj", "{4C9AEECC-D3D6-41FF-9069-7BF27EDFF9BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +59,14 @@ Global
 		{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2202DBB1-4A89-479A-B4BC-D9B5BB4FDC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093DD412-2CCF-4E0A-B64A-E1E6D7B926F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093DD412-2CCF-4E0A-B64A-E1E6D7B926F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093DD412-2CCF-4E0A-B64A-E1E6D7B926F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093DD412-2CCF-4E0A-B64A-E1E6D7B926F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9AEECC-D3D6-41FF-9069-7BF27EDFF9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9AEECC-D3D6-41FF-9069-7BF27EDFF9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9AEECC-D3D6-41FF-9069-7BF27EDFF9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9AEECC-D3D6-41FF-9069-7BF27EDFF9BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

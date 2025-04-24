@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\BLL.csproj": {}
+    "C:\\Projects\\ProgramowanieBazodanowe\\BLL\\BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\BLL.csproj": {
+    "C:\\Projects\\ProgramowanieBazodanowe\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Projects\\ProgramowanieBazodanowe\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\Student RM4-3073 04\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student RM4-3073 04\\Documents\\GitHub\\ProgramowanieBazodanowe\\BLL\\obj\\",
+        "projectPath": "C:\\Projects\\ProgramowanieBazodanowe\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\MZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\ProgramowanieBazodanowe\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student RM4-3073 04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,10 +1,13 @@
 using BLL.ServiceInterfaces;
 using BLL_EF.Services;
-using BLL_DB.Services;
 using DAL;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using System;
+using BLL_DB.Services;
+using MongoDB.Driver;
+using BLL_MongoDb.Services;
+using MongoDB.Bson.Serialization.Conventions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,21 +18,39 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<WebstoreContext>();
+
+//builder.Services.AddDbContext<WebstoreContext>();
 
 //builder.Services.AddScoped<IProductService, ProductService>();
 //builder.Services.AddScoped<IBasketService, BasketService>();
 //builder.Services.AddScoped<IOrderService, OrderService>();
 //builder.Services.AddScoped<IUserService, UserService>();
 
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+//builder.Services.AddScoped<IProductService, ProductServiceDB>();
+//builder.Services.AddScoped<IBasketService, BasketServiceDB>();
+//builder.Services.AddScoped<IOrderService, OrderServiceDB>();
+//builder.Services.AddScoped<IUserService, UserServiceDB>();
 
-builder.Services.AddScoped<IProductService>(provider => new ProductServiceDb(connectionString));
-builder.Services.AddScoped<IBasketService>(provider => new BasketServiceDb(connectionString));
-builder.Services.AddScoped<IOrderService>(provider => new OrderServiceDb(connectionString));
-builder.Services.AddScoped<IUserService>(provider => new UserServiceDb(connectionString));
+//var connectionString = builder.Configuration.GetConnectionString("WebstoreDb");
 
+//builder.Services.AddScoped<IBasketService>(_ => new BasketServiceDB(connectionString));
+//builder.Services.AddScoped<IOrderService>(_ => new OrderServiceDB(connectionString));
+//builder.Services.AddScoped<IProductService>(_ => new ProductServiceDB(connectionString));
+//builder.Services.AddScoped<IUserService>(_ => new UserServiceDB(connectionString));
 
+builder.Services.AddSingleton<IMongoClient>(sp =>
+    new MongoClient(builder.Configuration.GetConnectionString("WebStoreMongoDb")));
+
+builder.Services.AddScoped(sp =>
+    sp.GetRequiredService<IMongoClient>().GetDatabase("webStoreDb"));
+
+builder.Services.AddScoped<IProductService, MongoProductService>();
+builder.Services.AddScoped<IBasketService, MongoBasketService>();
+builder.Services.AddScoped<IOrderService, MongoOrderService>();
+builder.Services.AddScoped<IUserService, MongoUserService>();
+
+var conventionPack = new ConventionPack { new CamelCaseElementNameConvention() };
+ConventionRegistry.Register("CamelCase", conventionPack, t => true);
 
 var app = builder.Build();
 
